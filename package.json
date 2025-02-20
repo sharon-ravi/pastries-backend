@@ -1,0 +1,17 @@
+{
+  "name": "pastries_app_updated",
+  "version": "1.0.0",
+  "main": "find_shops.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "bcryptjs": "^3.0.0"
+  }
+}
